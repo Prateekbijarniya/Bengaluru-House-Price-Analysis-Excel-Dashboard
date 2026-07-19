@@ -40,7 +40,7 @@ The dashboard enables users to analyze property prices by location, BHK size, ar
 # 📊 Dashboard Preview
 
 <p align="center">
-<img Screenshot 2026-0-11 0216445.jpeg
+Screenshot 2026-0-11 0216445.jpeg
 </p>
 
 ---
