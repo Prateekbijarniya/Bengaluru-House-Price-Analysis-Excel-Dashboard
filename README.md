@@ -40,7 +40,7 @@ The dashboard enables users to analyze property prices by location, BHK size, ar
 # 📊 Dashboard Preview
 
 <p align="center">
-Screenshot 2026-0-11 0216445.jpeg
+  <img src="Screenshot%202026-0-11%200216445.jpeg" alt="Bengaluru House Price Analysis Dashboard" width="100%">
 </p>
 
 ---
